@@ -1,4 +1,4 @@
 {
-  "capabilityMatcher": "com.example.selenium.matcher.SampleCapabilityMatcher",
+  "capabilityMatcher": "com.grid.selenium.matcher.GridCapabilityMatcher",
   "throwOnCapabilityNotPresent": true
 }
